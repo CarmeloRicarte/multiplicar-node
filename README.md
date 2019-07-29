@@ -5,8 +5,8 @@ y también listar tablas de multiplicar.
 
 Ejecutar este comando
 
-...
+```
 
 npm install
 
-...
+```
